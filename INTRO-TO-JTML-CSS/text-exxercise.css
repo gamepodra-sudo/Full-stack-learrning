@@ -1,0 +1,120 @@
+ .tahoma {
+            font-size: 20px;
+            font-weight: bold;
+            font-family: tahoma;
+            background-color: rgb(128, 128, 255);
+            padding: 30px;
+        }
+
+        .html {
+            font-family: verdana;
+            font-weight: bold;
+
+        }
+
+        .b{
+            color: gray;
+            font-family: verdana;
+            font-size: 14px;
+            margin-top: -12px;
+        }
+
+        .course{
+            font-family: verdana;
+            width: 300px;
+            font-size: 18px;
+        }
+
+        .btn{
+            background-color: green;
+            color: white;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-right: 15px;
+            padding-left: 15px;
+            border: none;
+            border-radius: 10px;
+        }
+
+        .big{
+            font-family: arial;
+            font-weight: bold;
+            font-size: 25px;
+        }
+
+        .sales{
+            font-style: italic;
+            margin-top: -20px;
+            font-size: 18px;
+            color: red;
+        }
+
+        .shop{
+            text-align: center;
+            font-family: arial;
+            font-weight: bold;
+            font-size: 30px;
+        }
+
+        .apple{
+            text-align: center;
+            margin-top: -15px;
+            font-family: arial;
+            font-size: 14px;
+        }
+
+        .link{
+            text-decoration: none;
+            color: blue;
+            font-family: arial;
+            text-align: center;
+            font-size: 15px;
+        }
+
+        a{
+            text-decoration: none;
+        }
+        
+        .new{
+            text-align: center;
+            font-size: 15px;
+            color: red;
+            font-family: arial;
+        }
+        .mac{
+            text-align: center;
+            font-family: arial;
+            font-weight: bold;
+            margin-top: -5px;
+            font-size: 18px
+        }
+
+        .pros{
+            text-align: center;
+            font-size: 40px;
+            font-family: arial;
+            font-weight: bold;
+            margin-top: -13px;
+        }
+        .money{
+            text-align: center;
+            font-family: arial;
+            color: gray;
+            font-size: 13px;
+            margin-top: -30px;
+        }
+
+        .buy{
+            background-color: blue;
+            border: none;
+            padding: 8px 15px 8px 15px;
+            border-radius: 25px;
+            color: white;
+            cursor: pointer;
+            transition: 0.2s;
+            
+        }
+
+        .buy:hover{
+            opacity: 0.7;
+        }
